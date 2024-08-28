@@ -1,0 +1,78 @@
+.logo-part{
+  background-color:#ffffff;
+
+}
+
+
+.bosh-sahifa {
+  background-color: rgb(182, 182, 205);
+}
+.rasm{
+  background-color: black;
+}
+
+.bosh{
+
+  text-decoration:none;
+  font-size: 25px;
+  text-transform:uppercase;
+
+}
+
+.first-line{
+  width: 80px;
+  height: 3px;
+  color: #ff7500;
+  text-align: left;
+  background-color: #ff7500;
+}
+.sarlavha{
+background-color: black;
+color: #ffffff;
+font-size: large;
+text-transform: capitalize;
+}
+
+.second-line{
+  background-color: #ff7500;
+  color: #ff7500;
+  height: 3px;
+  width: 80px;
+  text-align: end;}
+
+  .button{
+    background-color:#ff7500;
+    color: rgb(210, 223, 235);
+
+    text-decoration:none;
+
+    width: 120px;
+  }
+
+
+  .malumot{
+    width:500px;
+  }
+
+
+
+  .image{
+    width: 100px;
+    height: 100px;
+    background-color:  rgba(255, 117, 0, 0.2);
+    ;
+  }
+
+
+  ul a{
+
+    text-decoration: none;
+  }
+
+
+  body {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 670;
+  font-style: normal;
+}
